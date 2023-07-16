@@ -1,0 +1,12 @@
+{
+  "include": ["src/**/*.ts"],
+  "files": ["src/composables/use-login.ts"],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}

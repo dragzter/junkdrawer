@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "junkdrawer-storage",
+  "private_key_id": "c20994619c8b9720ca5d6710fefa999aeb143e33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzcgz9jwmEktaX\n2BDF3C9k7OjQ/UUShjMEjn0/VUa/6MRWh7Wi5STsQPyvXvjqUOa76S4U0kQnZzwT\njekQoDz4vj9qUnIW4BP4EkDSxADwgwBgmAIc45BqMEcDFRn5fYcFXlzshTB83HRl\nlDsEZDiRnhX+sKoeG1uLpN8hdNsjEGKftFxHiAgv7NnqSIFgvLR7T2eu8fDP8paG\nWWHFvLu/PZ1LhTXdgMeG+GIVCSa6fDoPRcj0IuE/L+u43X1cwUNy9si22ES4HLbe\nJuRFEYQbQzpIVZav7uPAp9/qPZ86kAhUUcsfGo+2s7qt+QFjhuJi13DoIUD8iPZv\nLIRxZsEVAgMBAAECggEAEJTxblzRXFbVTaLBqgb2ujTKLsW4pEWSYVFpcXjH2OQB\ngJ15w1u5VbuLngkAp2Zia+rYP0RO1/VKL+RlLQwhljq+UWzc7hA2yC2nn9JM4+y3\nFDX3vAOrTKS5ayeABvX6jBx0KccE/ATDHL/d1EIOmCYrkiVxEuckRnstw0GxHkQ1\ne+xruib5rnz6RbCCgW7fBx3JLlWVBmNKHlM7aJEuERRBB8Op99Zkt4BUaIHHbxlM\n2RBu1uV5kaCdyzeqDycoS3dd095xgR0haYl1vQxCKNkkCgM2nNf/pC62Po+Am90w\nSYnAFFXAdpuk5FB9iRyVZwLR8HEI7UObaPxY+RNw4QKBgQDv4XLJ5t6GdT/qg3AD\nWeSVIRvAhHXy/TxkDHyeRlux7ds6hGGR/FsyPgoQYnxZO20CxlRTp1LwTFe2WLds\nvUDggNJXn1MQaX7JnLXj0O+3w9dpGVN7WRy5iX+BOmwH9FiqfOUYhXCWzVhip6I1\nPNC1H8zaToKEYmJQZygeJYr0fwKBgQC/gPcwB0Tn90QRceNOQvtF/VZ4/+0jh/YX\nWoYd9+oOy4mGdGzzio7m3+H6wCdaJA8Mkx5wmAsaPoD7uTJau9thJOIauE/iJhfm\n4vf3DDouMmucS3Ja6fyV6syfDkPuCyDfFDXYOAXA7ZRZCoIBg/V6jW5Pce15YHge\n54/74SVwawKBgCqfl6Lyh+XCXboQ4s1loq0w9dpubvrfLmTkpxwEinSCPCsYrLGg\n8p9p0KX6qfe9DHCqxv8aQy15kzhOaUFEG4wIt9dj8wF+jU3Lr7IsRPwVK2h8XI4V\nVnpNST+wHtQHAd5BVP/XbhsNn7/f432sMbWNUfwUaTKWvLtmqQU6TIeHAoGARV03\nK6RWZxb/BrqTtLM6RH2gpq88e9QxZQAa+BvmIXnD1HmzRPt5C1MojSSwnEvXT5yy\nN+I6k0T0fzjzbj4BFky/wSHlfWqC2dR4MHmzUSxeIfyJ7Tg3jy2+9BW8sSpCu8qc\nPjb8job/ZskRke70KXG09P21IHO6zqbdVkSUxQUCgYB5AqcLILpImCaLWNK8P0wL\nKc4lYK54SZn/fb5vNo/bcvjqfQXHFDsRweWl5bPfn/ija59hL6f/V8Y771Qw6sjI\nodFVVU/ES1/lxRo5DIk2ZW8Lc+qOZZ7Ga4LKTfb76DMKo1XSL5wH067SentTT9Hb\nqj6Ii/5Bg35n0tnGy2iqPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "junkdrawer-app-service-account@junkdrawer-storage.iam.gserviceaccount.com",
+  "client_id": "118061071614202363775",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/junkdrawer-app-service-account%40junkdrawer-storage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
